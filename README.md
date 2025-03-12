@@ -1,4 +1,4 @@
-                                                                        # Power BI Report 2024
+# Power BI Report 2024
 This report provides an in-depth analysis of reported faults for the year 2024, along with key insights and trends. It also includes a section dedicated to staff performance evaluation, focusing on metrics such as distance traveled, time taken, and the complexity of faults addressed. Additionally, faults are visualized geographically to enhance understanding and facilitate better decision-making for staff.
 ## H2
 ### H3
